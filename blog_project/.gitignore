@@ -1,0 +1,8 @@
+
+.vscode/
+*/__pycache__/*
+*.pyc
+*.pyo
+fixyfy/__pycache__/
+fixyfy/migrations/
+images/
